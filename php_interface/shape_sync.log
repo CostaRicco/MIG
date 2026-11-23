@@ -1,0 +1,3030 @@
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:49
+Module: SHAPE_SYNC
+2026-05-27 17:38:49 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:49
+Module: IMPORT_EVENT
+2026-05-27 17:38:49 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/storages_1_1_6c3b9d96-73fc-4543-b76c-e445c586e724.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:49
+Module: SKIP
+2026-05-27 17:38:49 | Skip import file: not offers.xml
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:32
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:51
+Module: SHAPE_SYNC
+2026-05-27 17:38:51 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:51
+Module: IMPORT_EVENT
+2026-05-27 17:38:51 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/propertiesGoods_1_1_d886ceea-541b-442b-8e85-461f957cd892.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:51
+Module: SKIP
+2026-05-27 17:38:51 | Skip import file: not offers.xml
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:32
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: SHAPE_SYNC
+2026-05-27 17:38:53 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: IMPORT_EVENT
+2026-05-27 17:38:53 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/propertiesOffers_1_1_04061df0-d558-439d-ab0d-aed45cd03cd3.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFERS_SCAN
+2026-05-27 17:38:53 | Array
+(
+    [products_to_update_count] => 3
+    [product_ids] => Array
+        (
+            [0] => 630
+            [1] => 632
+            [2] => 633
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:54
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 634
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 320х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 635
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (полоса, 300х200х20мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 636
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 300х100х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 637
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (полоса, 300х200х30мм, теромобработанный)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 638
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 300х200х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 639
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 200х200х20мм, теромобработанный)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 646
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 333 x 200х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 647
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (плитка, 300х300х30мм, Water Jet)
+    [raw_value] => плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 660
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 321х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 663
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (полоса, 328 x 95х30мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_id] => 664
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 300х100х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: BEFORE_SAVE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [offer_property] => FORMA
+    [product_property] => SHAPE
+    [values] => Array
+        (
+            [0] => слеб
+            [1] => полоса
+            [2] => плитка
+        )
+
+    [string_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:63
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: AFTER_SAVE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 630
+    [saved_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:79
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 640
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (полоса, 328 x 95х30мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 641
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 321х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 644
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 300х100х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 648
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (полоса, 300х200х20мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 652
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 320х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 655
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 200х200х20мм, теромобработанный)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 656
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (полоса, 300х200х30мм, теромобработанный)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 657
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 300х100х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 659
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 300х200х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 665
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 333 x 200х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_id] => 666
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (плитка, 300х300х30мм, Water Jet)
+    [raw_value] => плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: BEFORE_SAVE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [offer_property] => FORMA
+    [product_property] => SHAPE
+    [values] => Array
+        (
+            [0] => полоса
+            [1] => слеб
+            [2] => плитка
+        )
+
+    [string_value] => полоса, слеб, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:63
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: AFTER_SAVE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 632
+    [saved_value] => полоса, слеб, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:79
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 642
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 300х100х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 643
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (полоса, 328 x 95х30мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 645
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 321х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 649
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 200х200х20мм, теромобработанный)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 650
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 300х100х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 651
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (полоса, 300х200х30мм, теромобработанный)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 653
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 300х200х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 654
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (полоса, 300х200х20мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 658
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 320х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 661
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (плитка, 300х300х30мм, Water Jet)
+    [raw_value] => плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: OFFER_VALUE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_id] => 662
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 333 x 200х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: BEFORE_SAVE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [offer_property] => FORMA
+    [product_property] => SHAPE
+    [values] => Array
+        (
+            [0] => слеб
+            [1] => полоса
+            [2] => плитка
+        )
+
+    [string_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:63
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: AFTER_SAVE
+2026-05-27 17:38:53 | Array
+(
+    [product_id] => 633
+    [saved_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:79
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:53
+Module: SHAPE_SYNC
+2026-05-27 17:38:53 | === END OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:85
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:54
+Module: SHAPE_SYNC
+2026-05-27 17:38:54 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:54
+Module: IMPORT_EVENT
+2026-05-27 17:38:54 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/units_1_1_c05a8617-c39f-48a7-83c5-cb57e2decc92.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:54
+Module: SKIP
+2026-05-27 17:38:54 | Skip import file: not offers.xml
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:32
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:56
+Module: SHAPE_SYNC
+2026-05-27 17:38:56 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:56
+Module: IMPORT_EVENT
+2026-05-27 17:38:56 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/groups_1_1_b5711ff5-a550-4cba-b107-2ef17a911e72.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:56
+Module: SKIP
+2026-05-27 17:38:56 | Skip import file: not offers.xml
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:32
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:58
+Module: SHAPE_SYNC
+2026-05-27 17:38:58 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:58
+Module: IMPORT_EVENT
+2026-05-27 17:38:58 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/goods_1_1_98a6ea40-7228-4cf7-bac1-10249bbb4691.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:38:58
+Module: SKIP
+2026-05-27 17:38:58 | Skip import file: not offers.xml
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:32
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:00
+Module: SHAPE_SYNC
+2026-05-27 17:39:00 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:00
+Module: IMPORT_EVENT
+2026-05-27 17:39:00 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/offers_1_1_6c22ae29-d593-47c5-812c-424be76968b4.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:00
+Module: OFFERS_SCAN
+2026-05-27 17:39:00 | Array
+(
+    [products_to_update_count] => 3
+    [product_ids] => Array
+        (
+            [0] => 630
+            [1] => 632
+            [2] => 633
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:54
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 634
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 320х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 635
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (полоса, 300х200х20мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 636
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 300х100х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 637
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (полоса, 300х200х30мм, теромобработанный)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 638
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 300х200х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 639
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 200х200х20мм, теромобработанный)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 646
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 333 x 200х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 647
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (плитка, 300х300х30мм, Water Jet)
+    [raw_value] => плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 660
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 321х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 663
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (полоса, 328 x 95х30мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_id] => 664
+    [offer_name] => ТЕСТ Мрамор Tundra Blue (слеб, 300х100х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: BEFORE_SAVE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [offer_property] => FORMA
+    [product_property] => SHAPE
+    [values] => Array
+        (
+            [0] => слеб
+            [1] => полоса
+            [2] => плитка
+        )
+
+    [string_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:63
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: AFTER_SAVE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 630
+    [saved_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:79
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 640
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (полоса, 328 x 95х30мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 641
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 321х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 644
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 300х100х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 648
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (полоса, 300х200х20мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 652
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 320х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 655
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 200х200х20мм, теромобработанный)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 656
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (полоса, 300х200х30мм, теромобработанный)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 657
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 300х100х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 659
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 300х200х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 665
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (слеб, 333 x 200х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_id] => 666
+    [offer_name] => ТЕСТ VISCOUNT WHITE гранит  (плитка, 300х300х30мм, Water Jet)
+    [raw_value] => плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: BEFORE_SAVE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [offer_property] => FORMA
+    [product_property] => SHAPE
+    [values] => Array
+        (
+            [0] => полоса
+            [1] => слеб
+            [2] => плитка
+        )
+
+    [string_value] => полоса, слеб, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:63
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: AFTER_SAVE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 632
+    [saved_value] => полоса, слеб, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:79
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 642
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 300х100х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 643
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (полоса, 328 x 95х30мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 645
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 321х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 649
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 200х200х20мм, теромобработанный)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 650
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 300х100х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 651
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (полоса, 300х200х30мм, теромобработанный)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 653
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 300х200х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 654
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (полоса, 300х200х20мм, Полировка)
+    [raw_value] => полоса
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 658
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 320х198х20мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 661
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (плитка, 300х300х30мм, Water Jet)
+    [raw_value] => плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: OFFER_VALUE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_id] => 662
+    [offer_name] => ТЕСТ Кварцит Patagonia Pink (слеб, 333 x 200х30мм, Полировка)
+    [raw_value] => слеб
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:107
+#2: OffersPropsSync::collectOfferValues
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:60
+#3: OffersPropsSync::syncShapeFromOffers
+	
+#4: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#5: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: BEFORE_SAVE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [offer_property] => FORMA
+    [product_property] => SHAPE
+    [values] => Array
+        (
+            [0] => слеб
+            [1] => полоса
+            [2] => плитка
+        )
+
+    [string_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:63
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: AFTER_SAVE
+2026-05-27 17:39:01 | Array
+(
+    [product_id] => 633
+    [saved_value] => слеб, полоса, плитка
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:79
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:01
+Module: SHAPE_SYNC
+2026-05-27 17:39:01 | === END OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:85
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:02
+Module: SHAPE_SYNC
+2026-05-27 17:39:02 | === START OnSuccessCatalogImport1C ===
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:20
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:02
+Module: IMPORT_EVENT
+2026-05-27 17:39:02 | Array
+(
+    [file] => /home/m/mig201zn/dev/public_html/upload/1c_catalog/rests_1_1_3ca3aab2-9c2d-4dba-bd11-41949521608b.xml
+    [params] => Array
+        (
+            [IBLOCK_TYPE] => -
+            [SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [INTERVAL] => 30
+            [GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [GENERATE_PREVIEW] => 1
+            [PREVIEW_WIDTH] => 100
+            [PREVIEW_HEIGHT] => 100
+            [DETAIL_RESIZE] => 1
+            [DETAIL_WIDTH] => 300
+            [DETAIL_HEIGHT] => 300
+            [ELEMENT_ACTION] => D
+            [SECTION_ACTION] => D
+            [FILE_SIZE_LIMIT] => 204800
+            [USE_CRC] => 1
+            [USE_ZIP] => 1
+            [USE_OFFERS] => 1
+            [FORCE_OFFERS] => 
+            [USE_IBLOCK_TYPE_ID] => 
+            [USE_IBLOCK_PICTURE_SETTINGS] => 
+            [TRANSLIT_ON_ADD] => 1
+            [TRANSLIT_ON_UPDATE] => 1
+            [TRANSLIT_REPLACE_CHAR] => _
+            [SKIP_ROOT_SECTION] => 
+            [DISABLE_CHANGE_PRICE_NAME] => 
+            [IBLOCK_CACHE_MODE] => N
+            [CACHE_TYPE] => A
+            [~IBLOCK_TYPE] => -
+            [~SITE_LIST] => Array
+                (
+                    [0] => -
+                )
+
+            [~INTERVAL] => 30
+            [~GROUP_PERMISSIONS] => Array
+                (
+                    [0] => 1
+                )
+
+            [~GENERATE_PREVIEW] => Y
+            [~PREVIEW_WIDTH] => 100
+            [~PREVIEW_HEIGHT] => 100
+            [~DETAIL_RESIZE] => Y
+            [~DETAIL_WIDTH] => 300
+            [~DETAIL_HEIGHT] => 300
+            [~ELEMENT_ACTION] => D
+            [~SECTION_ACTION] => D
+            [~FILE_SIZE_LIMIT] => 204800
+            [~USE_CRC] => Y
+            [~USE_ZIP] => Y
+            [~USE_OFFERS] => Y
+            [~FORCE_OFFERS] => N
+            [~USE_IBLOCK_TYPE_ID] => N
+            [~USE_IBLOCK_PICTURE_SETTINGS] => N
+            [~TRANSLIT_ON_ADD] => Y
+            [~TRANSLIT_ON_UPDATE] => Y
+            [~TRANSLIT_REPLACE_CHAR] => _
+            [~SKIP_ROOT_SECTION] => N
+            [~DISABLE_CHANGE_PRICE_NAME] => N
+            [~IBLOCK_CACHE_MODE] => N
+            [~CACHE_TYPE] => A
+            [USE_TEMP_DIR] => N
+            [TRANSLIT_MAX_LEN] => 100
+            [TRANSLIT_CHANGE_CASE] => L
+            [TRANSLIT_REPLACE_SPACE] => _
+            [TRANSLIT_REPLACE_OTHER] => _
+            [TRANSLIT_DELETE_REPEAT_REPLACE] => 1
+            [SKIP_SOURCE_CHECK] => 
+        )
+
+)
+
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:21
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
+Host: test.mig2014.ru
+Date: 2026-05-27 17:39:02
+Module: SKIP
+2026-05-27 17:39:02 | Skip import file: not offers.xml
+#0: AddMessage2Log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:138
+#1: OffersPropsSync::log
+	/home/m/mig201zn/dev/public_html/local/php_interface/init.php:32
+#2: OffersPropsSync::syncShapeFromOffers
+	
+#3: call_user_func_array
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/tools.php:5246
+#4: ExecuteModuleEventEx
+	/home/m/mig201zn/dev/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:578
+#5: include(string)
+	/home/m/mig201zn/dev/public_html/bitrix/modules/main/classes/general/component.php:615
+----------
